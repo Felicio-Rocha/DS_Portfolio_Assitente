@@ -1,2 +1,3 @@
 # DS_Portifolio_Assitente
-DS Portifólio Assistente é um assistente criado com a IA Generativa do Google (Gemini) e tem como objetivo auxiliar profissionais e estudantes de data science na criação de projetos.
+DS Portifólio Assistente é um assistente, criado com a IA Generativa do Google (Gemini), e tem como objetivo auxiliar profissionais e estudantes de data science na criação de projetos.
+Comece seus projetos de Ciência de Dados a partir da análise. O DS Portifólio Assistente, permite que você escolha um tema ou área em que gostaria de realizar o projeto, e ele irá fazer a criação do projeto, desde o problema a ser resolvido, dados a serem utilizados, desafios que serão enfrentados, bem como lhe auxiliará ao longo da construção do projeto respondendo dúvidas, gerando códigos para facilitar sua vida e torna a análise mais simples e rápida.

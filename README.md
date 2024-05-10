@@ -11,7 +11,7 @@ O Assistant for Data Science Projects (ADSP) é um assistente alimentado por IA 
   - Geração de código para simplificar as tarefas
   - Diretrizes para orientar a construção do projeto
 ## Benefícios:
-Criação de projetos rápida e eficiente
+Criação de projetos de forma rápida e eficiente
 Insights valiosos para aprimorar seus projetos
 Simplificação do desenvolvimento do portfólio
 

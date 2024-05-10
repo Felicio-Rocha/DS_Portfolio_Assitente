@@ -1,7 +1,7 @@
-# Assistant for Data Science Projects (APDS)
+# Assistant for Data Science Projects (ADSP)
 
 ## Introdução
-O Assistant for Data Science Projects (APDS) é um assistente alimentado por IA que auxilia profissionais e estudantes de ciência de dados a criar projetos inovadores. Aproveitando a IA Generativa do Google (Gemini), o APDS orienta você ao longo do processo de criação do projeto, desde a concepção até a execução.
+O Assistant for Data Science Projects (ADSP) é um assistente alimentado por IA que auxilia profissionais e estudantes de ciência de dados a criar projetos inovadores. Aproveitando a IA Generativa do Google (Gemini), o ADSP orienta você ao longo do processo de criação do projeto, desde a concepção até a execução.
 
 ## Como funciona o APDS?
 1. Forneça uma área de aplicação e uma linguagem de programação.

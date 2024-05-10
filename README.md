@@ -6,7 +6,7 @@ O Assistant for Data Science Projects (APDS) é um assistente alimentado por IA 
 ## Como funciona o APDS?
 1. Forneça uma área de aplicação e uma linguagem de programação.
 2. O APDS gera um problema a ser resolvido, dados relevantes e desafios potenciais.
-3. Durante o desenvolvimento do projeto, o APDS oferece (A ser implementado):
+3. (A ser implementado) Durante o desenvolvimento do projeto, o APDS oferece:
   - Respostas a perguntas
   - Geração de código para simplificar as tarefas
   - Diretrizes para orientar a construção do projeto
